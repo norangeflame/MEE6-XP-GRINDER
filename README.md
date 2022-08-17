@@ -12,12 +12,12 @@ It is off by default when opening the app, so you'll need to press the keybind t
 
 
 Main Features:
- - Sends a message every 60 seconds (with MEE6 you can only get XP once a minute, to stop spammers)
+ - Sends a message every 60 seconds (with MEE6 you can only get 15-25XP once a minute, to stop spammers)
  - Works while Discord is open in the background
  - Auto-deletes the message (glitchy, fixes soon)
  - Can get around 10k XP in 12 hours†
 
-†(you can't really get much more than that since you can only get XP once a minute)
+†(you can't really get much more than that since you can only get 15-25XP once a minute)
 
 
 

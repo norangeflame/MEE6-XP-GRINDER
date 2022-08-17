@@ -1,6 +1,7 @@
 # MEE6-XP-GRINDER
 This MEE6 XP Grinder for Discord allows you to work or game while grinding message XP in the background. I'm not really sure if anyone would actually use this but here it is :)
 
+**USE AT YOUR OWN RISK**
 
 XP-G by norangeflame
 

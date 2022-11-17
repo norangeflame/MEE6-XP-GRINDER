@@ -35,7 +35,7 @@ THE GRINDER WILL GET AROUND 10K XP EVERY 12 HOURS, WHICH MAY NOT SEEM LIKE MUCH,
 
 That's all. Enjoy your using the Grinder.
 
-Also from testing the Grinder works best when Discord is NOT the active window - for some reason if it's active then the auto-delete doesn't work so fixes coming soon :)
+> Also from testing the Grinder works best when Discord is NOT the active window - for some reason if it's active then the auto-delete doesn't work so fixes coming soon :)
 
 ### Coming soon:
  - Customisable keybind to toggle the Grinder

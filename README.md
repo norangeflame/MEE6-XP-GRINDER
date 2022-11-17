@@ -5,10 +5,10 @@
 
 XP-G by norangeflame
 
-TO TOGGLE ON/OFF
-Ctrl + Windows Key + Z
-If the countdown is on and it says "Active", then the grinder is on.
-It is off by default when opening the app, so you'll need to press the keybind to start it
+> TO TOGGLE ON/OFF
+> Ctrl + Windows Key + Z
+> If the countdown is on and it says "Active", then the grinder is on.
+> It is off by default when opening the app, so you'll need to press the keybind to start it
 
 
 ### Main Features:

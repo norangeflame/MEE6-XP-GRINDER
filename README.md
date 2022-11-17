@@ -11,7 +11,7 @@ If the countdown is on and it says "Active", then the grinder is on.
 It is off by default when opening the app, so you'll need to press the keybind to start it
 
 
-Main Features:
+### Main Features:
  - Sends a message every 60 seconds (with MEE6 you can only get 15-25XP once a minute, to stop spammers)
  - Works while Discord is open in the background
  - Auto-deletes the message (glitchy, fixes soon)
